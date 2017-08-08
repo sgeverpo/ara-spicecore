@@ -42,7 +42,7 @@ try:
     scale = "10E-9"
     agilent.write(":TIMEBASE:SCALE " + scale)
     
-    # The time-delay. This moves the signal to the right on the screen of the oscilloscope if the value is positive.
+    # The time-delay. This moves the signal to the left on the screen of the oscilloscope if the value is positive.
     delay = "235E-9"
     agilent.write(":TIMEBASE:DELAY " + delay)
     agilent.write(":TIMEBASE:REFERENCE CENTER")
