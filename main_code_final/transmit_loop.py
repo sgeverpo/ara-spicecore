@@ -154,6 +154,7 @@ logfile.close()
 
 writeToSynth("o1",ser)
 
+#THIS SHOULD LOOP INFINITELY ON THE POLE SO SMALL CHANGES ARE NECESSARY AFTER TESTING
 loopcount = 1
 while loopcount <= 1:
     logfile = open("/media/card/" + logfilename,'a')    
