@@ -1,0 +1,54 @@
+f) RF Frequency Now (MHz)  300.0
+o) set RF On(1) or Off(0) 1
+h) set RF High(1) or Low(0) Power 1
+a) set RF Power (0=mimimum, 63=maximum) 0
+D) Read Power Detector A/D (0-1023 output)
+w) Read RF power in dBm
+V) Set A/D voltage reference 2.058
+Q) Power Measurment Offset 89.777
+v) show firmware version
+e) write all settings to eeprom
+x) set internal reference (external=0 / internal=1)  1
+l) set lower frequency for sweep (MHz) 200.0
+u) set upper frequency for sweep (Mhz) 4000.0
+s) set step size for sweep (MHz) 50.0
+t) set step time is 0.600 ms
+g) run sweep (on=1 / off=0)  0
+r) set reading while sweeping (on=1 / off=0) 0
+d) set sweep display (off=0 / freq+amp=1 / only amp=2) 0
+m) show maximum then minimum of a sweep
+c) set continuous sweep mode  0
+F) AM step time in microseconds 20
+q) AM # of cycle repetitions 10
+%) AM gain in percent 100
+@) AM offset value 0
+B) Run one AM Burst
+A) Run Continuous AM Burst (on=1 / off=0) 0
+P) Pulse On time is 1 us
+O) Pulse Off time is 1 us
+R) # of pulse repetitions is 1
+M) Pulse Off amplitude 64
+G) Run one Pulse Burst
+j) continuous pulse mode  0
+p) get phase lock status (lock=1 / unlock=0)  0
+C1) General Purpose AD read J8 P1 (0-1023) 0
+C2) General Purpose AD read J8 P2 (0-1023) 1023
+#) set GP Dig Out J8 Pin 3 (on=1 / off=0) 0
+$) set GP Dig Out J8 Pin 5  (on=1 / off=0) 0
+H0) PLL Register 0 2580000
+H1) PLL Register 1 8015E42
+H3) PLL Register 3 4B3
+H4) PLL Register 4 B10C3C
+H5) PLL Register 5 580005
+*) PLL phase comparator frequency MHz 2.0
+PLL Integer 0
+PLL Fraction 0
+PLL Modulus 2000
+PLL RF Divider 0
+PLL REG4 output power 3
+PLL REG4 Mute till LD 1
+PLL REG4 Band Select Clock Divider 16
+PLL REG1 Prescaler 1
++) Model Type
+-) Serial Number  864
+?) help
